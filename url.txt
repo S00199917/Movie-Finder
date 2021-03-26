@@ -1,1 +1,3 @@
-jackmalone.eu
+Website url: jackmalone.eu
+
+Github repo url: https://github.com/jackMalone2001/Movie-Finder
